@@ -1,0 +1,18 @@
+.containor{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    width: 100wh;
+    margin-top: 200px;
+    padding: 100px;
+    position: fixed;
+   background-color: aqua;
+}
+
+body{
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+     margin-right: 600px;
+    display: flex;
+}
